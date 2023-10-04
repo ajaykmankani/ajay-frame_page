@@ -1,7 +1,3 @@
-Certainly! Below is a basic README.md template for your landing page framework project. You can customize it further to provide more details about your framework.
-
----
-
 # PageFrame - Easy Landing Page Framework
 
 PageFrame is a lightweight PHP framework designed to help you create effective landing pages with ease. With PageFrame, you can manage all the data you want to display on your landing page, such as email addresses, phone numbers, and more, in different variables. This allows you to update and customize your landing page content effortlessly.
