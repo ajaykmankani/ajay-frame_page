@@ -7,5 +7,6 @@
         "psr-4": {
             "   AJAY-FRAME_PAGE\\": "src/"
         }
-    }
+    },
+    "license": "MIT"
 }
