@@ -1,11 +1,12 @@
 {
     "name": "akm/page-frame",
-    "description": "A small PHP landing page framework",
-    "type": "library",
-    "require": {},
+    "description": "A template project for creating landing pages with PageFrame",
+    "require": {
+        "ajay/page-frame": "dev-master"
+    },
     "autoload": {
         "psr-4": {
-            "   AJAY-FRAME_PAGE\\": "src/"
+            "   AJAY-FRAME_PAGE\\": "vendor/akm/page-frame/src/"
         }
     },
     "license": "MIT"
