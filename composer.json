@@ -1,5 +1,5 @@
 {
-    "name": "ajay/page-frame",
+    "name": "akm/page-frame",
     "description": "A small PHP landing page framework",
     "type": "library",
     "require": {},
