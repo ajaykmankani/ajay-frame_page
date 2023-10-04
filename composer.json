@@ -2,9 +2,7 @@
     "name": "akm/page-frame",
     "description": "A template project for creating landing pages with PageFrame",
     "type": "project",
-    "require": {
-        "ajay/page-frame": "dev-master"
-    },
+    "require": {},
     "autoload": {
         "psr-4": {
             "   AJAY-FRAME_PAGE\\": "vendor/akm/page-frame/src/"
