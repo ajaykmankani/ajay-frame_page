@@ -21,7 +21,7 @@ To get started with PageFrame, follow these steps:
 2. Create a new PageFrame project using Composer:
 
    ```bash
-   composer create-project ajay/page-frame
+   composer create-project akm/page-frame
    ```
 
 3. Start building your landing page by modifying the variables in the framework.
