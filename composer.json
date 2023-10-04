@@ -1,6 +1,7 @@
 {
     "name": "akm/page-frame",
     "description": "A template project for creating landing pages with PageFrame",
+    "type": "project",
     "require": {
         "ajay/page-frame": "dev-master"
     },
