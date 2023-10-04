@@ -96,7 +96,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Contact
 
 If you have any questions or feedback, you can reach us at ajaykmankani66@gmail.com.
-
----
-
-Replace `Ajay Mankani` and `ajaykmankani66@gmail.com` with your name and contact information. Additionally, you can expand the README to include more details about the framework, its structure, and advanced usage instructions if necessary.
